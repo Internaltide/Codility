@@ -10,6 +10,7 @@
 
 ### Lession 3
 #### [100%][FrogJmp](https://github.com/Internaltide/Codility/blob/master/FrogJmp.php)
+#### [100%][PermMissingElem](https://github.com/Internaltide/Codility/blob/master/PermMissingElem.php)
 
 ## Useful Function
 ### [Combination](https://github.com/Internaltide/Codility/blob/master/Combination.php)
