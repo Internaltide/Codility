@@ -9,6 +9,7 @@
 #### [100%] [OddOccurrencesInArray](https://github.com/Internaltide/Codility/blob/master/OddOccurrencesInArray.php)
 
 ### Lession 3
+#### [100%][FrogJmp](https://github.com/Internaltide/Codility/blob/master/FrogJmp.php)
 
 ## Useful Function
 ### [Combination](https://github.com/Internaltide/Codility/blob/master/Combination.php)
